@@ -1,0 +1,791 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1594612869907,6501,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,429,0,4
+1594612869907,429,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,2021,362,10,10,http://192.168.99.100:5000/,429,0,4
+1594612870412,3471,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",3468,0,3228
+1594612870416,3465,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",3452,0,3223
+1594612870414,5982,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,296,0,177
+1594612870413,757,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,297,0,178
+1594612870413,762,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,297,0,177
+1594612870412,775,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,212,0,0
+1594612871231,3743,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1114,0,311
+1594612871741,1026,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,1025,0,587
+1594612872770,922,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,922,0,224
+1594612873695,373,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,373,0,86
+1594612873962,649,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,352,0,116
+1594612873930,288,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,288,0,129
+1594612873969,281,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,281,0,91
+1594612874072,283,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,283,0,108
+1594612874229,628,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,628,0,148
+1594612874253,573,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,573,0,137
+1594612874359,671,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,496,0,177
+1594612874612,293,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,293,0,0
+1594612874829,1579,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,201,0,118
+1594612876470,268,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,267,0,60
+1594612869905,6769,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-10,,true,,5837093,8877,10,10,null,696,65,64
+1594612869350,7454,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,235,0,157
+1594612869350,241,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,2021,362,10,10,http://192.168.99.100:5000/,235,0,157
+1594612869850,4020,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",4004,0,3783
+1594612869849,4031,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4027,0,3785
+1594612869848,6758,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,149,0,32
+1594612869847,357,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,151,0,33
+1594612869847,1332,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,150,0,33
+1594612869847,1341,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,175,0,0
+1594612871285,3655,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1054,0,259
+1594612871807,1039,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,1039,0,524
+1594612872851,941,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,941,0,142
+1594612873793,362,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,362,0,253
+1594612873989,624,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,326,0,89
+1594612873990,325,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,325,0,89
+1594612873991,325,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,325,0,87
+1594612874156,187,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,187,0,0
+1594612874323,516,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,516,0,136
+1594612874324,514,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,514,0,135
+1594612874348,676,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,504,0,175
+1594612874614,292,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,292,0,0
+1594612874840,1964,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,134,0,0
+1594612869349,7496,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,235,0,159
+1594612869349,242,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,2021,362,10,10,http://192.168.99.100:5000/,235,0,159
+1594612869838,4005,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",3988,0,3785
+1594612869838,4044,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4036,0,3800
+1594612869838,6836,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,183,0,43
+1594612869836,376,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,185,0,45
+1594612869836,882,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,185,0,45
+1594612869835,1348,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,350,0,0
+1594612871262,3685,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1078,0,282
+1594612871785,982,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,982,0,546
+1594612872772,1021,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,1021,0,222
+1594612873795,361,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,361,0,252
+1594612873938,626,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,314,0,122
+1594612873979,364,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,364,0,83
+1594612873984,331,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,331,0,94
+1594612874157,186,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,186,0,0
+1594612874322,516,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,516,0,137
+1594612874344,180,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,180,0,0
+1594612874347,676,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,504,0,176
+1594612874526,412,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,284,0,0
+1594612874565,2280,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,306,0,0
+1594612869656,7246,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,12,0,4
+1594612869656,15,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,2021,362,10,10,http://192.168.99.100:5000/,12,0,4
+1594612869846,4034,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",4022,0,3791
+1594612869845,4010,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",3984,0,3778
+1594612869845,6812,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,174,0,35
+1594612869843,360,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,178,0,37
+1594612869843,1339,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,155,0,37
+1594612869843,1344,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,179,0,0
+1594612871230,3743,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1115,0,311
+1594612871791,977,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,977,0,540
+1594612872775,399,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,398,0,0
+1594612873181,602,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,602,0,0
+1594612873786,654,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,365,0,259
+1594612873977,310,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,310,0,85
+1594612873976,277,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,277,0,84
+1594612873976,312,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,312,0,86
+1594612874257,576,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,575,0,135
+1594612874289,544,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,544,0,131
+1594612874291,730,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,542,0,130
+1594612874446,356,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,355,0,0
+1594612874803,2099,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,136,0,0
+1594612869361,7569,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,223,0,146
+1594612869361,230,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,2021,362,10,10,http://192.168.99.100:5000/,223,0,146
+1594612869834,4048,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",4038,0,3792
+1594612869833,4049,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4039,0,3807
+1594612869831,6904,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,505,0,51
+1594612869829,432,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,193,0,53
+1594612869828,1354,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,357,0,0
+1594612869830,787,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,192,0,52
+1594612870626,3973,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,917,0,558
+1594612871808,1038,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,1038,0,523
+1594612872848,832,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,832,0,145
+1594612873682,147,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,146,0,0
+1594612873832,497,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,231,0,0
+1594612873921,295,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,295,0,137
+1594612873923,293,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,293,0,135
+1594612873965,254,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,254,0,94
+1594612874224,562,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,562,0,152
+1594612874224,154,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,154,0,0
+1594612874225,762,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,562,0,151
+1594612874329,134,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,134,0,0
+1594612874414,2516,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,386,0,0
+1594612869721,7251,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,131,0,16
+1594612869721,131,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,2021,362,10,10,http://192.168.99.100:5000/,131,0,16
+1594612869883,3999,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",3991,0,3746
+1594612869878,4001,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4000,0,3758
+1594612869877,6509,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,459,0,15
+1594612869877,498,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,459,0,15
+1594612869877,1304,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,460,0,16
+1594612869876,1308,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,310,0,0
+1594612871250,3715,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1093,0,294
+1594612871822,1024,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,1024,0,510
+1594612872850,323,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,323,0,0
+1594612873185,600,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,600,0,0
+1594612873787,662,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,368,0,258
+1594612873936,283,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,282,0,123
+1594612873985,329,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,329,0,93
+1594612873978,334,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,334,0,85
+1594612874229,560,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,560,0,148
+1594612874318,520,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,519,0,140
+1594612874317,705,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,517,0,141
+1594612874450,360,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,360,0,0
+1594612874809,2163,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,152,0,0
+1594612869480,7496,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,108,0,24
+1594612869480,111,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,2021,362,10,10,http://192.168.99.100:5000/,108,0,24
+1594612869863,3976,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",3967,0,3762
+1594612869856,4023,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4011,0,3777
+1594612869857,6726,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,139,0,22
+1594612869859,127,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,125,0,20
+1594612869828,1357,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,357,0,0
+1594612869865,1321,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,119,0,14
+1594612871241,3685,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1097,0,301
+1594612871830,940,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,940,0,502
+1594612872779,913,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,913,0,214
+1594612873694,374,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,373,0,86
+1594612873938,619,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,313,0,122
+1594612873971,280,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,280,0,89
+1594612873980,333,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,333,0,96
+1594612874071,283,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,283,0,109
+1594612874255,571,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,571,0,135
+1594612874317,517,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,517,0,141
+1594612874357,668,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,497,0,179
+1594612874557,298,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,298,0,0
+1594612874830,2146,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,132,0,0
+1594612869887,7090,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,449,0,6
+1594612869887,449,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,2021,362,10,10,http://192.168.99.100:5000/,449,0,6
+1594612870411,3470,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",3463,0,3226
+1594612870411,3470,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",3459,0,3228
+1594612870411,6263,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,297,0,179
+1594612870428,761,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,761,0,163
+1594612870410,786,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,319,0,181
+1594612870410,777,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,214,0,0
+1594612871238,3729,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1105,0,304
+1594612871814,955,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,955,0,518
+1594612869537,7451,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,47,0,2
+1594612872776,1007,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,1007,0,218
+1594612869537,54,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,2021,362,10,10,http://192.168.99.100:5000/,47,0,2
+1594612873784,366,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,366,0,261
+1594612869855,4026,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",4017,0,3771
+1594612873969,580,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,253,0,90
+1594612869854,4029,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4028,0,3787
+1594612873964,255,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,255,0,95
+1594612869851,6827,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,138,0,28
+1594612873981,334,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,334,0,96
+1594612869851,340,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,145,0,28
+1594612874152,190,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,190,0,0
+1594612874230,559,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,559,0,147
+1594612869851,1328,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,146,0,28
+1594612874326,513,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,513,0,133
+1594612869850,1335,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,172,0,0
+1594612874343,680,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,506,0,180
+1594612871246,3688,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1092,0,296
+1594612874550,471,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,401,0,250
+1594612871812,957,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,957,0,520
+1594612874811,2166,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,214,0,135
+1594612872778,914,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,914,0,215
+1594612873693,375,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,374,0,87
+1594612873927,618,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,291,0,132
+1594612873927,290,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,289,0,132
+1594612873972,280,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,280,0,88
+1594612874069,285,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,285,0,110
+1594612874226,562,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,562,0,151
+1594612874256,571,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,571,0,136
+1594612874356,668,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,496,0,180
+1594612874545,315,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,313,0,0
+1594612874809,2179,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,156,0,0
+1594612869349,7664,http://192.168.99.100:5000/,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,5836891,8260,10,10,http://192.168.99.100:5000/,235,0,159
+1594612869349,242,http://192.168.99.100:5000/-0,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,2021,362,10,10,http://192.168.99.100:5000/,235,0,159
+1594612869842,4039,http://192.168.99.100:5000/-1,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4602,392,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",4010,0,3785
+1594612869841,4040,http://192.168.99.100:5000/-2,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,3872,406,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",4010,0,3793
+1594612869841,6721,http://192.168.99.100:5000/-3,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,794071,797,10,10,http://192.168.99.100:5000/css/semantic.css,178,0,40
+1594612869840,368,http://192.168.99.100:5000/-4,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,17723,379,10,10,http://192.168.99.100:5000/css/MarsTheme.css,181,0,41
+1594612869840,876,http://192.168.99.100:5000/-5,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,412561,379,10,10,http://192.168.99.100:5000/css/scheduler.css,181,0,41
+1594612869839,1345,http://192.168.99.100:5000/-6,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,278520,380,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,345,0,0
+1594612871256,3678,http://192.168.99.100:5000/-7,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,769533,376,10,10,http://192.168.99.100:5000/js/semantic.js,1082,0,288
+1594612871780,987,http://192.168.99.100:5000/-8,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,3482,378,10,10,http://192.168.99.100:5000/util/Mars-lib.js,987,0,550
+1594612872774,918,http://192.168.99.100:5000/-9,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,8601,404,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,918,0,220
+1594612873696,373,http://192.168.99.100:5000/-10,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,2141,395,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,373,0,85
+1594612873937,800,http://192.168.99.100:5000/-11,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,73407,400,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,404,0,140
+1594612873983,330,http://192.168.99.100:5000/-12,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4407,402,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,330,0,95
+1594612873983,359,http://192.168.99.100:5000/-13,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,2037,399,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,359,0,95
+1594612874073,282,http://192.168.99.100:5000/-14,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,1619,400,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,282,0,107
+1594612874320,518,http://192.168.99.100:5000/-15,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,5861,407,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,518,0,139
+1594612874345,506,http://192.168.99.100:5000/-16,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,5831,402,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,505,0,178
+1594612874357,667,http://192.168.99.100:5000/-17,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,45621,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,495,0,179
+1594612874741,321,http://192.168.99.100:5000/-18,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,29233,404,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,242,0,177
+1594612874839,2174,http://192.168.99.100:5000/-19,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,3371748,394,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,211,0,115
+1594612876813,208,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,208,0,50
+1594612876852,169,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,169,0,37
+1594612869198,7662,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-2,,true,,5837093,8877,10,10,null,443,162,207
+1594612869096,7665,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-1,,true,,5837093,8877,10,10,null,404,261,196
+1594612876909,150,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,150,0,28
+1594612869653,7396,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-7,,true,,5837093,8877,10,10,null,162,11,32
+1594612876942,139,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,139,0,30
+1594612869357,7708,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-4,,true,,5837093,8877,10,10,null,362,17,176
+1594612876979,150,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,150,0,31
+1594612869719,7401,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-8,,true,,5837093,8877,10,10,null,281,10,47
+1594612876994,147,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,147,0,26
+1594612876997,144,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,144,0,23
+1594612869885,7237,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-9,,true,,5837093,8877,10,10,null,596,20,32
+1594612869531,7595,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-6,,true,,5837093,8877,10,10,null,191,16,25
+1594612876990,162,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,162,0,26
+1594612869475,7658,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-5,,true,,5837093,8877,10,10,null,270,20,50
+1594612877017,821,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,821,0,4
+1594612869256,8485,HomePage,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-3,,true,,5837093,8877,10,10,null,1056,98,163
+1594612876742,3469,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,3469,0,57
+1594612880213,91,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,91,0,1
+1594612877023,4146,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4146,0,2
+1594612877023,4178,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4178,0,2
+1594612877061,4181,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4181,0,1
+1594612877083,4167,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4167,0,2
+1594612877144,4107,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4107,0,2
+1594612877143,4168,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4168,0,2
+1594612877155,4156,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4156,0,2
+1594612877132,4180,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,4177,0,1
+1594612881203,124,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,123,0,1
+1594612881171,156,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,156,0,2
+1594612881252,179,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,179,0,3
+1594612881255,176,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,176,0,2
+1594612881313,120,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,120,0,2
+1594612877840,3673,http://192.168.99.100:60968/authentication/authentication/signin,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,491,416,10,10,http://192.168.99.100:60968/authentication/authentication/signin,3673,0,7
+1594612881314,203,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,203,0,2
+1594612881244,279,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,279,0,2
+1594612881314,213,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,213,0,3
+1594612881517,123,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,123,0,3
+1594612884624,401,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4649485,9308,10,10,http://192.168.99.100:5000/Account/Profile,28,0,7
+1594612884624,28,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,2047,377,10,10,http://192.168.99.100:5000/Account/Profile,28,0,7
+1594612884670,355,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4602,442,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",353,0,180
+1594612884672,351,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,3872,456,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",349,0,169
+1594612884674,22,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,462,10,10,http://192.168.99.100:5000/css/semantic.css,0,0,9
+1594612884674,28,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,463,10,10,http://192.168.99.100:5000/css/MarsTheme.css,0,0,9
+1594612884674,22,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,463,10,10,http://192.168.99.100:5000/css/scheduler.css,0,0,9
+1594612884673,15,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,464,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,0
+1594612884688,20,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,460,10,10,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612884697,9,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,462,10,10,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612884698,13,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,488,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612884702,21,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,479,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612884709,7,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,484,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612884710,20,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,486,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,3
+1594612884711,5,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,483,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612884717,9,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,484,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612884718,16,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,491,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,3
+1594612884725,7,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,486,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612884727,5,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612884731,5,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612884732,195,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4635666,402,10,10,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,5,0,0
+1594612885032,213,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,213,619,10,10,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,213,0,18
+1594612885249,231,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,213,603,10,10,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,231,0,0
+1594612885485,98,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,191,580,10,10,http://192.168.99.100:51689/listing/listing/getBalance,98,0,4
+1594612885584,81,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,81,0,0
+1594612885667,118,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,251,609,10,10,http://192.168.99.100:60190/profile/profile/getLanguage,117,0,0
+1594612885787,117,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,160,606,10,10,http://192.168.99.100:60190/profile/profile/getSkill,116,0,0
+1594612885905,101,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,609,610,10,10,http://192.168.99.100:60190/profile/profile/getEducation,100,0,0
+1594612886007,96,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,286,614,10,10,http://192.168.99.100:60190/profile/profile/getCertification,96,0,0
+1594612885823,424,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4649485,9308,10,10,http://192.168.99.100:5000/Account/Profile,12,0,4
+1594612885823,12,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,2047,377,10,10,http://192.168.99.100:5000/Account/Profile,12,0,4
+1594612885843,403,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4602,442,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",402,0,208
+1594612885843,404,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,3872,456,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",403,0,206
+1594612885843,11,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,462,10,10,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612885844,11,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,463,10,10,http://192.168.99.100:5000/css/MarsTheme.css,0,0,7
+1594612885845,18,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,463,10,10,http://192.168.99.100:5000/css/scheduler.css,0,0,0
+1594612885844,19,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,464,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,0
+1594612885854,16,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,460,10,10,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612885856,16,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,462,10,10,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612885864,20,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,488,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,5
+1594612885864,14,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,479,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,4
+1594612885871,7,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,484,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612885872,6,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,486,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612885879,16,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,483,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,3
+1594612885879,15,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,484,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,3
+1594612885880,15,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,491,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,3
+1594612885885,5,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,486,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612885891,7,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612885895,4,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612885896,209,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4635666,402,10,10,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,6,0,0
+1594612886254,256,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,213,619,10,10,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,256,0,5
+1594612886511,214,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,213,603,10,10,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,212,0,0
+1594612886345,395,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4649485,9308,10,10,http://192.168.99.100:5000/Account/Profile,10,0,1
+1594612886345,10,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,2047,377,10,10,http://192.168.99.100:5000/Account/Profile,10,0,1
+1594612886363,347,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4602,442,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",345,0,159
+1594612886366,374,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,3872,456,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",373,0,196
+1594612886365,14,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,462,10,10,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612886365,24,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,463,10,10,http://192.168.99.100:5000/css/MarsTheme.css,0,0,6
+1594612886364,46,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,463,10,10,http://192.168.99.100:5000/css/scheduler.css,0,0,11
+1594612886364,25,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,464,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,11
+1594612886380,53,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,460,10,10,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612886390,43,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,462,10,10,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612886390,44,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,488,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,1
+1594612886410,30,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,479,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612886433,6,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,484,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612886435,4,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,486,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612886435,4,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,483,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612886439,15,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,484,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,3
+1594612886439,9,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,491,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612886440,10,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,486,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612886440,14,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,2
+1594612886449,7,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612886450,190,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4635666,402,10,10,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,8,0,0
+1594612886729,124,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,191,580,10,10,http://192.168.99.100:51689/listing/listing/getBalance,124,0,4
+1594612886856,86,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,86,0,0
+1594612886746,256,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,213,619,10,10,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,256,0,2
+1594612886943,109,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,251,609,10,10,http://192.168.99.100:60190/profile/profile/getLanguage,109,0,0
+1594612887053,105,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,160,606,10,10,http://192.168.99.100:60190/profile/profile/getSkill,105,0,0
+1594612887005,278,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,213,603,10,10,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,278,0,0
+1594612887161,122,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,609,610,10,10,http://192.168.99.100:60190/profile/profile/getEducation,120,0,0
+1594612886105,1206,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,1617,592,10,10,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1205,0,0
+1594612877142,7043,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-9,,true,,4653920,15791,10,10,null,6666,3126,34
+1594612887288,97,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,191,580,10,10,http://192.168.99.100:51689/listing/listing/getBalance,97,0,6
+1594612887285,128,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,286,614,10,10,http://192.168.99.100:60190/profile/profile/getCertification,128,0,0
+1594612887387,117,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,117,0,0
+1594612887506,135,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,251,609,10,10,http://192.168.99.100:60190/profile/profile/getLanguage,134,0,0
+1594612887643,134,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,160,606,10,10,http://192.168.99.100:60190/profile/profile/getSkill,134,0,0
+1594612887780,111,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,609,610,10,10,http://192.168.99.100:60190/profile/profile/getEducation,107,0,0
+1594612887893,128,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,286,614,10,10,http://192.168.99.100:60190/profile/profile/getCertification,124,0,0
+1594612887416,1186,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,1617,592,10,10,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1185,0,0
+1594612877153,7030,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-5,,true,,4653920,15791,10,10,null,6613,4419,17
+1594612888024,1029,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,1617,592,10,10,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1029,0,0
+1594612876739,6240,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-10,,true,,4653920,15791,10,10,null,5846,6074,67
+1594612891401,451,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,14007,9373,10,10,http://192.168.99.100:5000/Home,28,0,7
+1594612891401,28,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,2021,366,10,10,http://192.168.99.100:5000/Home,28,0,7
+1594612891447,402,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,4602,442,10,10,"https://fonts.googleapis.com/css?family=Montserrat:400,700",401,0,205
+1594612891439,413,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,3872,456,10,10,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",412,0,214
+1594612891437,19,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,462,10,10,http://192.168.99.100:5000/css/semantic.css,0,0,6
+1594612891437,15,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,463,10,10,http://192.168.99.100:5000/css/MarsTheme.css,0,0,0
+1594612891439,17,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,463,10,10,http://192.168.99.100:5000/css/scheduler.css,0,0,10
+1594612891443,13,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,464,10,10,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,6
+1594612891452,15,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,460,10,10,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612891456,15,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,462,10,10,http://192.168.99.100:5000/util/Mars-lib.js,0,0,3
+1594612891457,11,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,488,10,10,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612891456,12,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,479,10,10,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,3
+1594612891468,10,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,484,10,10,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,4
+1594612891470,5,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,486,10,10,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612891470,5,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,483,10,10,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612891472,4,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,484,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612891476,5,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,491,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612891476,5,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,486,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612891476,2,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612891478,4,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,200,488,10,10,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612891478,4,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-10,text,true,,214,478,10,10,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612891866,106,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-10,text,true,,202,617,10,10,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,106,0,4
+1594612889054,557,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-10,,true,,14209,9990,10,10,null,134,2363,11
+1594612893367,418,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4649485,9308,9,9,http://192.168.99.100:5000/Account/Profile,27,0,5
+1594612893367,27,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,2047,377,9,9,http://192.168.99.100:5000/Account/Profile,27,0,5
+1594612893404,381,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4602,442,9,9,"https://fonts.googleapis.com/css?family=Montserrat:400,700",380,0,204
+1594612893404,371,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,3872,456,9,9,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",370,0,185
+1594612893404,6,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,462,9,9,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612893404,36,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,463,9,9,http://192.168.99.100:5000/css/MarsTheme.css,0,0,7
+1594612893405,41,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,463,9,9,http://192.168.99.100:5000/css/scheduler.css,0,0,11
+1594612893405,50,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,464,9,9,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,6
+1594612893411,35,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,460,9,9,http://192.168.99.100:5000/js/semantic.js,0,0,5
+1594612893440,6,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,462,9,9,http://192.168.99.100:5000/util/Mars-lib.js,0,0,1
+1594612893446,7,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,488,9,9,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,0
+1594612893447,8,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,479,9,9,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612893447,5,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,484,9,9,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612893453,21,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,486,9,9,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,6
+1594612893457,8,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,483,9,9,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612893457,9,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,484,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612893458,43,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,491,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,2
+1594612893466,37,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,486,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612893466,45,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,2
+1594612893474,36,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612893501,203,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4635666,402,9,9,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,15,0,0
+1594612893791,210,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,213,619,9,9,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,210,0,6
+1594612893419,593,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4649485,9308,9,9,http://192.168.99.100:5000/Account/Profile,27,0,5
+1594612893419,27,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,2047,377,9,9,http://192.168.99.100:5000/Account/Profile,27,0,5
+1594612893452,560,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4602,442,9,9,"https://fonts.googleapis.com/css?family=Montserrat:400,700",551,0,376
+1594612893452,352,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,3872,456,9,9,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",351,0,167
+1594612893454,20,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,462,9,9,http://192.168.99.100:5000/css/semantic.css,0,0,6
+1594612893457,17,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,463,9,9,http://192.168.99.100:5000/css/MarsTheme.css,0,0,3
+1594612893454,11,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,463,9,9,http://192.168.99.100:5000/css/scheduler.css,0,0,0
+1594612893453,21,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,464,9,9,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,6
+1594612893466,45,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,460,9,9,http://192.168.99.100:5000/js/semantic.js,0,0,1
+1594612893475,36,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,462,9,9,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612893476,35,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,488,9,9,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612893476,35,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,479,9,9,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612893512,189,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,484,9,9,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612893512,189,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,486,9,9,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612893512,196,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,483,9,9,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,2
+1594612893512,195,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,484,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,2
+1594612893702,9,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,491,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612893702,14,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,486,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,4
+1594612893708,6,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612893708,8,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612893712,273,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4635666,402,9,9,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,5,0,0
+1594612894004,196,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,213,603,9,9,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,196,0,0
+1594612894016,205,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,213,619,9,9,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,205,0,2
+1594612894202,102,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,191,580,9,9,http://192.168.99.100:51689/listing/listing/getBalance,102,0,2
+1594612894306,97,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,202,617,9,9,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,97,0,0
+1594612894222,224,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,213,603,9,9,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,224,0,0
+1594612894406,101,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,251,609,9,9,http://192.168.99.100:60190/profile/profile/getLanguage,101,0,0
+1594612894448,102,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,191,580,9,9,http://192.168.99.100:51689/listing/listing/getBalance,96,0,1
+1594612894509,136,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,160,606,9,9,http://192.168.99.100:60190/profile/profile/getSkill,136,0,0
+1594612894551,111,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,202,617,9,9,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,107,0,0
+1594612894663,100,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,251,609,9,9,http://192.168.99.100:60190/profile/profile/getLanguage,100,0,0
+1594612894648,130,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,609,610,9,9,http://192.168.99.100:60190/profile/profile/getEducation,125,0,0
+1594612894765,126,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,160,606,9,9,http://192.168.99.100:60190/profile/profile/getSkill,125,0,0
+1594612894780,126,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,286,614,9,9,http://192.168.99.100:60190/profile/profile/getCertification,115,0,0
+1594612894894,119,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,609,610,9,9,http://192.168.99.100:60190/profile/profile/getEducation,118,0,0
+1594612895014,96,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,286,614,9,9,http://192.168.99.100:60190/profile/profile/getCertification,96,0,0
+1594612894909,1090,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,1617,592,9,9,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1089,0,0
+1594612877839,6402,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-3,,true,,4653920,15791,9,9,null,5994,11760,23
+1594612895112,1142,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,1617,592,9,9,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1140,0,0
+1594612877142,7101,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-6,,true,,4653920,15791,9,9,null,6521,12012,12
+1594612896606,629,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,14007,9373,9,9,http://192.168.99.100:5000/Home,31,0,3
+1594612896606,31,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,2021,366,9,9,http://192.168.99.100:5000/Home,31,0,3
+1594612896645,384,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,4602,442,9,9,"https://fonts.googleapis.com/css?family=Montserrat:400,700",369,0,197
+1594612896645,590,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,3872,456,9,9,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",588,0,404
+1594612896645,26,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,462,9,9,http://192.168.99.100:5000/css/semantic.css,0,0,9
+1594612896645,16,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,463,9,9,http://192.168.99.100:5000/css/MarsTheme.css,0,0,0
+1594612896646,25,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,463,9,9,http://192.168.99.100:5000/css/scheduler.css,0,0,9
+1594612896647,24,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,464,9,9,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,8
+1594612896661,17,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,460,9,9,http://192.168.99.100:5000/js/semantic.js,0,0,4
+1594612896672,9,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,462,9,9,http://192.168.99.100:5000/util/Mars-lib.js,0,0,3
+1594612896672,9,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,488,9,9,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612896673,8,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,479,9,9,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612896678,7,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,484,9,9,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612896681,11,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,486,9,9,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,2
+1594612896681,6,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,483,9,9,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612896682,19,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,484,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,2
+1594612896686,5,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,491,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612896688,29,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,486,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612896692,24,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612896693,23,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,200,488,9,9,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612896702,14,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-9,text,true,,214,478,9,9,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612897237,95,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-9,text,true,,202,617,9,9,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,94,0,1
+1594612887312,724,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-9,,true,,14209,9990,9,9,null,125,9298,4
+1594612900275,458,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4649485,9308,8,8,http://192.168.99.100:5000/Account/Profile,21,0,4
+1594612900275,21,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,2047,377,8,8,http://192.168.99.100:5000/Account/Profile,21,0,4
+1594612900309,419,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4602,442,8,8,"https://fonts.googleapis.com/css?family=Montserrat:400,700",418,0,220
+1594612900309,424,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,3872,456,8,8,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",423,0,223
+1594612900310,23,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,462,8,8,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612900317,31,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,463,8,8,http://192.168.99.100:5000/css/MarsTheme.css,0,0,8
+1594612900315,21,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,463,8,8,http://192.168.99.100:5000/css/scheduler.css,0,0,7
+1594612900316,21,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,464,8,8,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,7
+1594612900334,14,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,460,8,8,http://192.168.99.100:5000/js/semantic.js,0,0,3
+1594612900336,16,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,462,8,8,http://192.168.99.100:5000/util/Mars-lib.js,0,0,12
+1594612900338,15,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,488,8,8,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,10
+1594612900349,11,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,479,8,8,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,4
+1594612900349,8,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,484,8,8,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612900353,5,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,486,8,8,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612900353,8,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,483,8,8,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,2
+1594612900357,10,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,484,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,2
+1594612900358,5,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,491,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612900361,4,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,486,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612900361,5,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,488,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612900363,4,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,488,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612900365,183,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4635666,402,8,8,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,4,0,0
+1594612900735,229,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,213,619,8,8,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,228,0,3
+1594612900965,199,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,213,603,8,8,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,199,0,0
+1594612901169,98,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,191,580,8,8,http://192.168.99.100:51689/listing/listing/getBalance,97,0,3
+1594612900847,461,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,14007,9373,8,8,http://192.168.99.100:5000/Home,33,0,3
+1594612900847,34,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,2021,366,8,8,http://192.168.99.100:5000/Home,33,0,3
+1594612900893,415,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,4602,442,8,8,"https://fonts.googleapis.com/css?family=Montserrat:400,700",415,0,220
+1594612900890,418,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,3872,456,8,8,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",418,0,223
+1594612900890,13,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,462,8,8,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612900891,18,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,463,8,8,http://192.168.99.100:5000/css/MarsTheme.css,0,0,11
+1594612900891,18,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,463,8,8,http://192.168.99.100:5000/css/scheduler.css,0,0,11
+1594612900893,16,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,464,8,8,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,9
+1594612900904,12,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,460,8,8,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612900910,23,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,462,8,8,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612900909,24,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,488,8,8,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,3
+1594612900910,23,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,479,8,8,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,1
+1594612900917,16,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,484,8,8,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612900933,5,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,486,8,8,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612900933,5,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,483,8,8,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612900934,5,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,484,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612900934,9,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,491,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,1
+1594612900939,4,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,486,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612900939,4,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,488,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612900939,4,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,200,488,8,8,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612900943,2,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-5,text,true,,214,478,8,8,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612901268,97,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,202,617,8,8,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,96,0,0
+1594612901310,102,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-5,text,true,,202,617,8,8,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,101,0,2
+1594612888603,563,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-5,,true,,14209,9990,8,8,null,134,12247,5
+1594612901366,127,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,251,609,7,7,http://192.168.99.100:60190/profile/profile/getLanguage,126,0,0
+1594612901495,88,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,160,606,7,7,http://192.168.99.100:60190/profile/profile/getSkill,88,0,0
+1594612901585,103,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,609,610,7,7,http://192.168.99.100:60190/profile/profile/getEducation,99,0,0
+1594612901690,192,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,286,614,7,7,http://192.168.99.100:60190/profile/profile/getCertification,192,0,0
+1594612901884,1080,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,1617,592,7,7,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1079,0,0
+1594612877082,7017,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-4,,true,,4653920,15791,7,7,null,6571,18865,15
+1594612903311,523,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,14007,9373,7,7,http://192.168.99.100:5000/Home,45,0,4
+1594612903311,45,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,2021,366,7,7,http://192.168.99.100:5000/Home,45,0,4
+1594612903364,470,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,4602,442,7,7,"https://fonts.googleapis.com/css?family=Montserrat:400,700",469,0,274
+1594612903364,456,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,3872,456,7,7,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",455,0,247
+1594612903364,8,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,462,7,7,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612903365,11,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,463,7,7,http://192.168.99.100:5000/css/MarsTheme.css,0,0,2
+1594612903365,12,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,463,7,7,http://192.168.99.100:5000/css/scheduler.css,0,0,4
+1594612903365,11,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,464,7,7,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,2
+1594612903372,47,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,460,7,7,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612903377,42,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,462,7,7,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612903377,43,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,488,7,7,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612903377,48,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,479,7,7,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,3
+1594612903420,4,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,484,7,7,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612903420,22,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,486,7,7,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,2
+1594612903420,5,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,483,7,7,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612903424,19,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,484,7,7,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612903425,2,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,491,7,7,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612903426,17,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,486,7,7,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,1
+1594612903428,14,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,488,7,7,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612903442,3,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,200,488,7,7,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612903442,3,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-3,text,true,,214,478,7,7,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612903838,118,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-3,text,true,,202,617,7,7,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,117,0,4
+1594612896001,641,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-3,,true,,14209,9990,7,7,null,162,7314,8
+1594612904835,509,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4649485,9308,6,6,http://192.168.99.100:5000/Account/Profile,31,0,4
+1594612904835,31,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,2047,377,6,6,http://192.168.99.100:5000/Account/Profile,31,0,4
+1594612904870,474,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4602,442,6,6,"https://fonts.googleapis.com/css?family=Montserrat:400,700",472,0,286
+1594612904870,472,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,3872,456,6,6,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",470,0,285
+1594612904870,7,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,462,6,6,http://192.168.99.100:5000/css/semantic.css,0,0,3
+1594612904870,8,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,463,6,6,http://192.168.99.100:5000/css/MarsTheme.css,0,0,0
+1594612904870,8,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,463,6,6,http://192.168.99.100:5000/css/scheduler.css,0,0,3
+1594612904870,7,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,464,6,6,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,3
+1594612904877,11,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,460,6,6,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612904877,11,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,462,6,6,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612904878,10,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,488,6,6,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612904879,9,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,479,6,6,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,1
+1594612904889,4,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,484,6,6,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612904889,4,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,486,6,6,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612904889,4,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,483,6,6,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612904889,4,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,484,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612904893,6,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,491,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612904893,5,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,486,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612904894,6,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,488,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612904894,10,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,488,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,1
+1594612904899,176,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4635666,402,6,6,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,3,0,0
+1594612905347,223,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,213,619,6,6,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,223,0,4
+1594612905571,271,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,213,603,6,6,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,270,0,0
+1594612905845,108,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,191,580,6,6,http://192.168.99.100:51689/listing/listing/getBalance,108,0,3
+1594612905955,158,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,202,617,6,6,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,157,0,0
+1594612906115,118,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,251,609,6,6,http://192.168.99.100:60190/profile/profile/getLanguage,117,0,0
+1594612906236,136,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,160,606,6,6,http://192.168.99.100:60190/profile/profile/getSkill,136,0,0
+1594612906375,108,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,609,610,6,6,http://192.168.99.100:60190/profile/profile/getEducation,107,0,0
+1594612906486,117,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,286,614,6,6,http://192.168.99.100:60190/profile/profile/getCertification,117,0,0
+1594612907118,418,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,14007,9373,6,6,http://192.168.99.100:5000/Home,30,0,6
+1594612907118,30,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,2021,366,6,6,http://192.168.99.100:5000/Home,30,0,6
+1594612907153,383,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,4602,442,6,6,"https://fonts.googleapis.com/css?family=Montserrat:400,700",382,0,179
+1594612907153,382,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,3872,456,6,6,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",382,0,199
+1594612907153,7,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,462,6,6,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612907153,15,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,463,6,6,http://192.168.99.100:5000/css/MarsTheme.css,0,0,4
+1594612907154,15,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,463,6,6,http://192.168.99.100:5000/css/scheduler.css,0,0,4
+1594612907154,14,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,464,6,6,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,4
+1594612907160,24,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,460,6,6,http://192.168.99.100:5000/js/semantic.js,0,0,3
+1594612907169,24,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,462,6,6,http://192.168.99.100:5000/util/Mars-lib.js,0,0,10
+1594612907169,24,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,488,6,6,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,11
+1594612907170,14,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,479,6,6,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612907184,8,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,484,6,6,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612907185,7,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,486,6,6,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612907192,18,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,483,6,6,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612907192,18,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,484,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612907193,24,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,491,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,2
+1594612907193,24,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,486,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,2
+1594612907210,7,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,488,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612907210,6,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,200,488,6,6,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612907217,1,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-6,text,true,,214,478,6,6,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612907539,115,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-6,text,true,,202,617,6,6,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,115,0,3
+1594612896255,533,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-6,,true,,14209,9990,6,6,null,145,10866,9
+1594612906605,1120,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,1617,592,5,5,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1120,0,0
+1594612877060,7328,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-7,,true,,4653920,15791,5,5,null,6846,23337,14
+1594612909113,453,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4649485,9308,5,5,http://192.168.99.100:5000/Account/Profile,26,0,5
+1594612909113,26,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,2047,377,5,5,http://192.168.99.100:5000/Account/Profile,26,0,5
+1594612909149,384,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4602,442,5,5,"https://fonts.googleapis.com/css?family=Montserrat:400,700",382,0,181
+1594612909149,417,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,3872,456,5,5,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",416,0,228
+1594612909149,9,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,462,5,5,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612909150,25,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,463,5,5,http://192.168.99.100:5000/css/MarsTheme.css,0,0,4
+1594612909151,24,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,463,5,5,http://192.168.99.100:5000/css/scheduler.css,0,0,4
+1594612909152,23,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,464,5,5,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,3
+1594612909159,23,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,460,5,5,http://192.168.99.100:5000/js/semantic.js,0,0,1
+1594612909175,31,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,462,5,5,http://192.168.99.100:5000/util/Mars-lib.js,0,0,3
+1594612909176,68,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,488,5,5,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612909176,30,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,479,5,5,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612909183,25,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,484,5,5,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612909207,31,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,486,5,5,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,1
+1594612909207,3,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,483,5,5,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612909208,5,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,484,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612909211,26,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,491,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612909213,27,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,486,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612909238,4,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612909238,4,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612909240,246,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4635666,402,5,5,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,5,0,0
+1594612909568,195,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,213,619,5,5,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,194,0,1
+1594612909764,258,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,213,603,5,5,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,258,0,0
+1594612910024,80,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,191,580,5,5,http://192.168.99.100:51689/listing/listing/getBalance,79,0,1
+1594612910105,113,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,202,617,5,5,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,112,0,0
+1594612910219,184,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,251,609,5,5,http://192.168.99.100:60190/profile/profile/getLanguage,183,0,0
+1594612910405,119,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,160,606,5,5,http://192.168.99.100:60190/profile/profile/getSkill,118,0,0
+1594612910526,156,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,609,610,5,5,http://192.168.99.100:60190/profile/profile/getEducation,156,0,0
+1594612910685,108,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,286,614,5,5,http://192.168.99.100:60190/profile/profile/getCertification,107,0,0
+1594612910794,1051,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,1617,592,5,5,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1050,0,0
+1594612877022,7019,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-1,,true,,4653920,15791,5,5,null,6585,27804,11
+1594612913519,416,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4649485,9308,5,5,http://192.168.99.100:5000/Account/Profile,19,0,3
+1594612913519,20,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,2047,377,5,5,http://192.168.99.100:5000/Account/Profile,19,0,3
+1594612913546,389,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4602,442,5,5,"https://fonts.googleapis.com/css?family=Montserrat:400,700",387,0,203
+1594612913546,380,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,3872,456,5,5,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",379,0,196
+1594612913546,12,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,462,5,5,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612913547,17,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,463,5,5,http://192.168.99.100:5000/css/MarsTheme.css,0,0,6
+1594612913547,43,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,463,5,5,http://192.168.99.100:5000/css/scheduler.css,0,0,7
+1594612913547,43,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,464,5,5,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,7
+1594612913558,33,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,460,5,5,http://192.168.99.100:5000/js/semantic.js,0,0,4
+1594612913564,30,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,462,5,5,http://192.168.99.100:5000/util/Mars-lib.js,0,0,17
+1594612913590,10,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,488,5,5,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612913590,9,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,479,5,5,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612913591,6,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,484,5,5,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612913594,5,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,486,5,5,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612913597,4,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,483,5,5,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612913600,4,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,484,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612913601,4,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,491,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612913600,4,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,486,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612913601,4,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612913605,5,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612913605,175,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4635666,402,5,5,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,3,0,0
+1594612913937,206,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,213,619,5,5,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,206,0,3
+1594612914144,213,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,213,603,5,5,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,212,0,0
+1594612914359,93,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,191,580,5,5,http://192.168.99.100:51689/listing/listing/getBalance,93,0,2
+1594612914454,105,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,202,617,5,5,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,105,0,0
+1594612914561,116,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,251,609,5,5,http://192.168.99.100:60190/profile/profile/getLanguage,116,0,0
+1594612914678,85,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,160,606,5,5,http://192.168.99.100:60190/profile/profile/getSkill,84,0,0
+1594612914764,126,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,609,610,5,5,http://192.168.99.100:60190/profile/profile/getEducation,126,0,0
+1594612914891,89,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,286,614,5,5,http://192.168.99.100:60190/profile/profile/getCertification,89,0,0
+1594612914590,405,http://192.168.99.100:5000/Account/Profile,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4649485,9308,5,5,http://192.168.99.100:5000/Account/Profile,15,0,2
+1594612914590,15,http://192.168.99.100:5000/Account/Profile-0,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,2047,377,5,5,http://192.168.99.100:5000/Account/Profile,15,0,2
+1594612914610,361,http://192.168.99.100:5000/Account/Profile-1,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4602,442,5,5,"https://fonts.googleapis.com/css?family=Montserrat:400,700",351,0,179
+1594612914614,381,http://192.168.99.100:5000/Account/Profile-2,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,3872,456,5,5,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",380,0,193
+1594612914614,14,http://192.168.99.100:5000/Account/Profile-3,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,462,5,5,http://192.168.99.100:5000/css/semantic.css,0,0,3
+1594612914613,11,http://192.168.99.100:5000/Account/Profile-4,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,463,5,5,http://192.168.99.100:5000/css/MarsTheme.css,0,0,4
+1594612914613,10,http://192.168.99.100:5000/Account/Profile-5,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,463,5,5,http://192.168.99.100:5000/css/scheduler.css,0,0,4
+1594612914613,8,http://192.168.99.100:5000/Account/Profile-6,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,464,5,5,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,0
+1594612914621,21,http://192.168.99.100:5000/Account/Profile-7,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,460,5,5,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612914624,22,http://192.168.99.100:5000/Account/Profile-8,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,462,5,5,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612914624,18,http://192.168.99.100:5000/Account/Profile-9,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,488,5,5,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612914628,14,http://192.168.99.100:5000/Account/Profile-10,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,479,5,5,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,4
+1594612914642,4,http://192.168.99.100:5000/Account/Profile-11,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,484,5,5,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612914643,4,http://192.168.99.100:5000/Account/Profile-12,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,486,5,5,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612914643,3,http://192.168.99.100:5000/Account/Profile-13,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,483,5,5,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612914646,5,http://192.168.99.100:5000/Account/Profile-14,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,484,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612914646,56,http://192.168.99.100:5000/Account/Profile-15,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,491,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,2
+1594612914646,6,http://192.168.99.100:5000/Account/Profile-16,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,486,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612914648,4,http://192.168.99.100:5000/Account/Profile-17,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612914651,20,http://192.168.99.100:5000/Account/Profile-18,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612914652,237,http://192.168.99.100:5000/Account/Profile-19,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4635666,402,5,5,http://192.168.99.100:5000/js/react/dist/myAccountProfile.bundle.js,20,0,0
+1594612914996,238,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,213,619,5,5,http://192.168.99.100:60190/notification/notification/getNotification?numberOfNotifications=5,238,0,1
+1594612915236,260,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,213,603,5,5,http://192.168.99.100:60190/notification/notification/getNewNotificationCount,260,0,0
+1594612915498,110,http://192.168.99.100:51689/listing/listing/getBalance,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,191,580,5,5,http://192.168.99.100:51689/listing/listing/getBalance,90,0,1
+1594612915609,101,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,202,617,5,5,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,101,0,0
+1594612915710,101,http://192.168.99.100:60190/profile/profile/getLanguage,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,251,609,5,5,http://192.168.99.100:60190/profile/profile/getLanguage,101,0,0
+1594612915429,425,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,14007,9373,5,5,http://192.168.99.100:5000/Home,8,0,1
+1594612915429,8,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,2021,366,5,5,http://192.168.99.100:5000/Home,8,0,1
+1594612915440,413,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,4602,442,5,5,"https://fonts.googleapis.com/css?family=Montserrat:400,700",409,0,188
+1594612915440,414,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,3872,456,5,5,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",411,0,189
+1594612915440,2,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,462,5,5,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612915440,7,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,463,5,5,http://192.168.99.100:5000/css/MarsTheme.css,0,0,0
+1594612915440,12,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,463,5,5,http://192.168.99.100:5000/css/scheduler.css,0,0,3
+1594612915440,13,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,464,5,5,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,5
+1594612915442,10,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,460,5,5,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612915447,9,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,462,5,5,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612915452,5,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,488,5,5,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,0
+1594612915452,9,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,479,5,5,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612915453,10,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,484,5,5,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,1
+1594612915456,5,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,486,5,5,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612915458,30,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,483,5,5,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612915462,18,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,484,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612915462,22,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,491,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,2
+1594612915463,19,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,486,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612915481,5,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612915482,4,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,200,488,5,5,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612915484,3,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-4,text,true,,214,478,5,5,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612915812,124,http://192.168.99.100:60190/profile/profile/getSkill,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,160,606,5,5,http://192.168.99.100:60190/profile/profile/getSkill,117,0,0
+1594612915855,105,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-4,text,true,,202,617,5,5,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,93,0,1
+1594612902965,530,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-4,,true,,14209,9990,5,5,null,101,12467,2
+1594612915938,149,http://192.168.99.100:60190/profile/profile/getEducation,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,609,610,4,4,http://192.168.99.100:60190/profile/profile/getEducation,147,0,0
+1594612915550,601,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,14007,9373,4,4,http://192.168.99.100:5000/Home,6,0,1
+1594612915550,6,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,2021,366,4,4,http://192.168.99.100:5000/Home,6,0,1
+1594612915559,388,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,4602,442,4,4,"https://fonts.googleapis.com/css?family=Montserrat:400,700",386,0,201
+1594612915559,592,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,3872,456,4,4,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",591,0,382
+1594612915559,8,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,462,4,4,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612915559,13,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,463,4,4,http://192.168.99.100:5000/css/MarsTheme.css,0,0,4
+1594612915560,12,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,463,4,4,http://192.168.99.100:5000/css/scheduler.css,0,0,4
+1594612915560,13,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,464,4,4,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,5
+1594612915567,38,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,460,4,4,http://192.168.99.100:5000/js/semantic.js,0,0,3
+1594612915573,33,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,462,4,4,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612915573,33,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,488,4,4,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612915573,32,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,479,4,4,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,2
+1594612915606,9,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,484,4,4,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612915606,25,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,486,4,4,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,2
+1594612915606,9,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,483,4,4,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,0
+1594612915606,10,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,484,4,4,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612915615,16,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,491,4,4,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612915615,15,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,486,4,4,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612915616,14,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,488,4,4,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612915631,3,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,200,488,4,4,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612915631,4,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-1,text,true,,214,478,4,4,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,1
+1594612916090,121,http://192.168.99.100:60190/profile/profile/getCertification,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,286,614,4,4,http://192.168.99.100:60190/profile/profile/getCertification,120,0,0
+1594612914980,1236,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,1617,592,4,4,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1236,0,0
+1594612877022,6987,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-2,,true,,4653920,15791,4,4,null,6587,32208,11
+1594612916154,99,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-1,text,true,,202,617,4,4,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,89,0,5
+1594612911846,700,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-1,,true,,14209,9990,4,4,null,95,3709,6
+1594612916212,1018,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,1617,592,3,3,http://192.168.99.100:60190/profile/profile/getProfileDetails/?id=,1018,0,0
+1594612877130,7010,Login,200,"Number of samples in transaction : 12, number of failing samples : 0",Login_Logout_ThreadGroup 1-8,,true,,4653920,15791,3,3,null,6587,33091,7
+1594612919289,417,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,14007,9373,3,3,http://192.168.99.100:5000/Home,20,0,3
+1594612919289,20,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,2021,366,3,3,http://192.168.99.100:5000/Home,20,0,3
+1594612919315,386,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,4602,442,3,3,"https://fonts.googleapis.com/css?family=Montserrat:400,700",384,0,196
+1594612919315,391,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,3872,456,3,3,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",391,0,204
+1594612919315,7,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,462,3,3,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612919316,14,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,463,3,3,http://192.168.99.100:5000/css/MarsTheme.css,0,0,7
+1594612919316,14,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,463,3,3,http://192.168.99.100:5000/css/scheduler.css,0,0,7
+1594612919316,14,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,464,3,3,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,8
+1594612919323,7,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,460,3,3,http://192.168.99.100:5000/js/semantic.js,0,0,2
+1594612919330,25,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,462,3,3,http://192.168.99.100:5000/util/Mars-lib.js,0,0,3
+1594612919330,24,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,488,3,3,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,3
+1594612919331,19,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,479,3,3,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,0
+1594612919331,23,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,484,3,3,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,2
+1594612919351,12,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,486,3,3,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612919354,11,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,483,3,3,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,2
+1594612919355,6,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,484,3,3,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612919355,12,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,491,3,3,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,2
+1594612919361,9,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,486,3,3,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612919363,8,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,488,3,3,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612919367,7,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,200,488,3,3,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,1
+1594612919367,6,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-7,text,true,,214,478,3,3,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612919707,97,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-7,text,true,,202,617,3,3,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,97,0,1
+1594612907726,514,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-7,,true,,14209,9990,3,3,null,117,11565,4
+1594612921318,411,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,14007,9373,2,2,http://192.168.99.100:5000/Home,26,0,4
+1594612921318,27,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,2021,366,2,2,http://192.168.99.100:5000/Home,26,0,4
+1594612921357,366,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,4602,442,2,2,"https://fonts.googleapis.com/css?family=Montserrat:400,700",364,0,182
+1594612921353,376,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,3872,456,2,2,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",372,0,187
+1594612921353,11,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,462,2,2,http://192.168.99.100:5000/css/semantic.css,0,0,0
+1594612921353,15,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,463,2,2,http://192.168.99.100:5000/css/MarsTheme.css,0,0,3
+1594612921354,15,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,463,2,2,http://192.168.99.100:5000/css/scheduler.css,0,0,8
+1594612921355,14,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,464,2,2,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,7
+1594612921365,30,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,460,2,2,http://192.168.99.100:5000/js/semantic.js,0,0,1
+1594612921369,26,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,462,2,2,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612921369,26,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,488,2,2,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612921370,28,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,479,2,2,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,8
+1594612921396,8,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,484,2,2,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612921396,13,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,486,2,2,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,2
+1594612921396,10,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,483,2,2,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,2
+1594612921399,6,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,484,2,2,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,0
+1594612921404,7,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,491,2,2,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612921405,7,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,486,2,2,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612921407,8,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,488,2,2,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612921410,6,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,200,488,2,2,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612921412,4,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-8,text,true,,214,478,2,2,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612921742,105,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-8,text,true,,202,617,2,2,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,105,0,11
+1594612917231,516,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-8,,true,,14209,9990,2,2,null,131,4100,15
+1594612927964,431,http://192.168.99.100:5000/Home,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,14007,9373,1,1,http://192.168.99.100:5000/Home,29,0,3
+1594612927964,29,http://192.168.99.100:5000/Home-0,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,2021,366,1,1,http://192.168.99.100:5000/Home,29,0,3
+1594612927996,399,http://192.168.99.100:5000/Home-1,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,4602,442,1,1,"https://fonts.googleapis.com/css?family=Montserrat:400,700",395,0,204
+1594612927996,394,http://192.168.99.100:5000/Home-2,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,3872,456,1,1,"https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",389,0,204
+1594612927996,34,http://192.168.99.100:5000/Home-3,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,462,1,1,http://192.168.99.100:5000/css/semantic.css,0,0,1
+1594612927996,6,http://192.168.99.100:5000/Home-4,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,463,1,1,http://192.168.99.100:5000/css/MarsTheme.css,0,0,0
+1594612927996,27,http://192.168.99.100:5000/Home-5,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,463,1,1,http://192.168.99.100:5000/css/scheduler.css,0,0,2
+1594612927996,27,http://192.168.99.100:5000/Home-6,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,464,1,1,http://192.168.99.100:5000/js/jquery-3.2.1.js,0,0,3
+1594612928002,25,http://192.168.99.100:5000/Home-7,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,460,1,1,http://192.168.99.100:5000/js/semantic.js,0,0,16
+1594612928023,7,http://192.168.99.100:5000/Home-8,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,462,1,1,http://192.168.99.100:5000/util/Mars-lib.js,0,0,2
+1594612928023,7,http://192.168.99.100:5000/Home-9,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,488,1,1,http://192.168.99.100:5000/util/NotificationFx/js/modernizr.custom.js,0,0,2
+1594612928028,2,http://192.168.99.100:5000/Home-10,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,479,1,1,http://192.168.99.100:5000/util/NotificationFx/js/classie.js,0,0,0
+1594612928030,5,http://192.168.99.100:5000/Home-11,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,484,1,1,http://192.168.99.100:5000/util/NotificationFx/js/snap.svg-min.js,0,0,0
+1594612928030,7,http://192.168.99.100:5000/Home-12,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,486,1,1,http://192.168.99.100:5000/util/NotificationFx/js/notificationFx.js,0,0,0
+1594612928030,14,http://192.168.99.100:5000/Home-13,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,483,1,1,http://192.168.99.100:5000/util/NotificationFx/css/normalize.css,0,0,2
+1594612928031,13,http://192.168.99.100:5000/Home-14,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,484,1,1,http://192.168.99.100:5000/util/NotificationFx/css/ns-default.css,0,0,2
+1594612928036,8,http://192.168.99.100:5000/Home-15,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,491,1,1,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-attached.css,0,0,0
+1594612928037,6,http://192.168.99.100:5000/Home-16,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,486,1,1,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-bar.css,0,0,0
+1594612928043,4,http://192.168.99.100:5000/Home-17,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,488,1,1,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-growl.css,0,0,0
+1594612928044,4,http://192.168.99.100:5000/Home-18,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,200,488,1,1,http://192.168.99.100:5000/util/NotificationFx/css/ns-style-other.css,0,0,0
+1594612928045,2,http://192.168.99.100:5000/Home-19,304,Not Modified,Login_Logout_ThreadGroup 1-2,text,true,,214,478,1,1,http://192.168.99.100:5000/js/react/dist/homePage.bundle.js,0,0,0
+1594612928398,102,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,200,OK,Login_Logout_ThreadGroup 1-2,text,true,,202,617,1,1,http://192.168.99.100:60190/profile/profile/isUserAuthenticated,102,0,4
+1594612916217,533,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",Login_Logout_ThreadGroup 1-2,,true,,14209,9990,1,1,null,131,11751,7
